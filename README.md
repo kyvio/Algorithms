@@ -1,5 +1,5 @@
 # Disclaimer
-Algorithms in this repo are for education only. Kyvio is not liable for their accuracy or suitability. Users should verify results, follow API terms of service, and Kyvio assumes no responsibility.
+Algorithms in this repo are for educational purpose only. I am not liable for their accuracy or suitability. Users should verify results, follow API terms of service, and I assume no responsibility.
 
 ## Credits
 
