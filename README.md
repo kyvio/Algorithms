@@ -1,8 +1,5 @@
 # Disclaimer
-
-The algorithms provided in this repository are intended for educational purposes only. The authors do not take any responsibility for the accuracy, reliability, or suitability of these algorithms for any particular purpose. 
-
-Users should exercise caution and verify the results of the algorithms using other sources before using them. It is the responsibility of the user to ensure that their use of the algorithms complies with the terms of service of the API providers.
+The algorithms in this repository are provided for educational purposes only, and the authors do not guarantee their accuracy or suitability for any particular purpose. Users should verify their results and comply with API provider's terms of service. The authors are not liable for any consequences of using these algorithms.
 
 ## Credits
 
